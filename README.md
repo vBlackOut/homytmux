@@ -271,6 +271,9 @@ tmux_conf_theme_status_right='#{prefix}#{pairing}#{synchronized} #(curl wttr.in?
 
 [RATP]: Start train for activity RATP network look here: https://github.com/vBlackOut/RATP
 
+![RATP information](https://i.ibb.co/WHCdRS9/Capture-du-2019-03-26-15-51-21.png)
+
+
 ### Accessing the macOS clipboard from within tmux sessions
 
 [Chris Johnsen created the `reattach-to-user-namespace`
